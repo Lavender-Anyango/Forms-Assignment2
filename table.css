@@ -1,0 +1,41 @@
+body{
+    text-align: center;
+    font-size: larger;
+}
+table, th, td{
+    border: 2px solid blue;
+    border-collapse: collapse;
+   
+}
+th{
+    color: royalblue;
+    height:  70px;
+}
+table{
+    text-align: center;
+    margin-left: 20%;
+    width: 50%;
+}
+td{
+    height: 40px;
+}
+tr{
+    color: black;
+}
+a{
+    color: black;
+}
+button{
+    padding: 8px 12px;
+    border: none;
+    border-radius: 5px;
+    width: 600px;
+    color: white;
+    background-color: royalblue;
+    font-size: large;
+    text-align: center;
+}
+.link a{
+    text-decoration: none;
+    color: black;
+}
